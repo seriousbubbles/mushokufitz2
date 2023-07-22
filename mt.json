@@ -1,0 +1,17 @@
+{
+  "contact": "https://discord.gg/mushokutensei",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Mushoku Tensei - Fitz2",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/514950968924700683/1132374454664699924/FITSFIFIF.png"
+      ],
+      "x": -705,
+      "y": -139
+    }
+  ],
+  "whitelist": [
+  ],
+  "blacklist": []
+}

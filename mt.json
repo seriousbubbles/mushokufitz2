@@ -3,12 +3,12 @@
   "notifications": "",
   "templates": [
     {
-      "name": "Mushoku Tensei - Fitz2",
+      "name": "Mushoku Tensei - OniMai",
       "sources": [
-        "https://cdn.discordapp.com/attachments/514950968924700683/1133128200025821225/newfitz.png"
+        "https://cdn.discordapp.com/attachments/514950968924700683/1133401498664058900/OniMai.png"
       ],
-      "x": 1730,
-      "y": 153
+      "x": 2588,
+      "y": 203
     }
   ],
   "whitelist": [
